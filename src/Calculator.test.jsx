@@ -1,5 +1,5 @@
 import { render, screen, fireEvent } from '@testing-library/react';
-import Calculator from './components/Calculator/Calculator';
+import Calculator from './components/calculator/Calculator';
 
 describe('Kalkylator', () => {
   const setup = () => {
